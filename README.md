@@ -10,13 +10,13 @@
 </p>
 
 ### ⚡ Electrical & Electronics Engineer | EV Infrastructure & Industrial IoT
-A high-achieving Engineer with a **perfect 10 SGPA record**, currently pursuing **B.Tech (EEE)** at **HIET (Batch 2026)**. Specialized in Smart EV Charging, ESP32-based Industrial IoT, and Power System Simulation.
+A high-achieving Engineer with a **perfect 10 SGPA record**, currently pursuing **B.Tech (EE)** at ** (Batch 2026)**. Specialized in Smart EV Charging, ESP32-based Industrial IoT, and Power System Simulation.
 
 ---
 
 ### 🏔️ About Me
 - 📍 **Hometown:** Himachal Pradesh, India 🇮🇳
-- 🎓 **Current:** B.Tech in Electrical & Electronics Engineering (2026) @ **HIET**
+- 🎓 **Current:** B.Tech in Electrical Engineering (2026) @ ****
 - 📜 **Past:** Diploma in EE from **Govt. Polytechnic Kangra** (10 SGPA Holder 🏆)
 - 🚗 **Focus:** Smart EV Infrastructure, Fast Charging Algorithms, and BIM Modeling.
 - 🌱 **Learning:** Advanced Java, Python Automation, and Drupal CMS.
@@ -40,15 +40,6 @@ A high-achieving Engineer with a **perfect 10 SGPA record**, currently pursuing 
 * 🔋 **[IoT-Wireless-Power-Transfer](https://github.com/Abhay07-ee/IoT-Wireless-Charging)**: Inductive charging system with cloud-based data logging for efficiency analysis.
 * 🏗️ **[BIM-Electrical-Design-Portfolio](https://github.com/Abhay07-ee/Electrical-Design-Portfolio)**: Complete Electrical Layouts (AutoCAD EE) and 3D BIM Models (Revit).
 * 📊 **[ETAP-Power-Grid-Analysis](https://github.com/Abhay07-ee/ETAP-Power-Analysis)**: Load flow and short-circuit studies for industrial networks.
-
----
-
-### 📈 GitHub Insights
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Abhay07-ee&show_icons=true&theme=tokyonight&count_private=true" alt="Abhay's Stats" />
-<br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhay07-ee&theme=tokyonight" alt="GitHub Streak" />
-</p>
 
 ---
 
