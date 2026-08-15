@@ -16,7 +16,7 @@ A high-achieving Engineer with a **perfect 10 SGPA record**, currently pursuing 
 
 ### 🏔️ About Me
 - 📍 **Hometown:** Himachal Pradesh, India 🇮🇳
-- 🎓 **Current:** B.Tech in Electrical Engineering (2026) @ ****
+- 🎓 **Current:** B.Tech in Electrical Engineering (2026) @ GHEC 
 - 📜 **Past:** Diploma in EE from **Govt. Polytechnic Kangra** (10 SGPA Holder 🏆)
 - 🚗 **Focus:** Smart EV Infrastructure, Fast Charging Algorithms, and BIM Modeling.
 - 🌱 **Learning:** Advanced Java, Python Automation, and Drupal CMS.
